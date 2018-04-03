@@ -19,6 +19,10 @@ class NeuralNetwork:
         self.bias_o.randomise()
         
         self.learning_rate = .1
+     
+    def random(self):
+    
+        print "random function"
         
     def predict(self, _input_array):
         
