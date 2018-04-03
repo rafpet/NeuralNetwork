@@ -1,2 +1,2 @@
 # NeuralNetwork
-# A basic Pytohn Neural Network class
+# A basic Python Neural Network class
